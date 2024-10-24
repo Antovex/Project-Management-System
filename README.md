@@ -1,7 +1,14 @@
+<h1 align="center">Project Management System</h1>
 
-# Project Management System
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="GraphQL" width="40" height="40"/>
+</p>
 
 This project is designed to help users manage multiple client projects through a single dashboard, streamlining tracking and organization.
+
+<h3 align="center"> <a href="http://3.111.58.123:3000/">Demo Link</a> </h2>
 
 ## Features
 
@@ -13,7 +20,7 @@ This project is designed to help users manage multiple client projects through a
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, ReactJS
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express, GraphQL
 - **Database**: MongoDB
 
 ## Installation
@@ -40,7 +47,3 @@ This project is designed to help users manage multiple client projects through a
    cd .\client\
    npm start
    ```
-
-## License
-
-This project is licensed under the MIT License.
