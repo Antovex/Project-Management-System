@@ -8,7 +8,7 @@
 
 This project is designed to help users manage multiple client projects through a single dashboard, streamlining tracking and organization.
 
-<h3 align="center"> <a href="http://3.111.58.123:3000/">Demo Link</a> </h2>
+<h3 align="center"> <a href="https://antovex.github.io/projectmgmtfe/">Demo Link</a> </h2>
 
 ## Features
 
